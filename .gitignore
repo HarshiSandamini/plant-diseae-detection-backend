@@ -1,0 +1,24 @@
+# Ignore checkpoints
+checkpoints/
+checkpoint/**
+
+# Ignore input directories' content
+input_images/
+input_images/**
+
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore logs
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore
+.idea/
